@@ -1,0 +1,4 @@
+[submodule "ocaml"]
+	path = ocaml
+	url = https://github.com/sebmarkbage/ocaml.git
+	branch = wasmfixes

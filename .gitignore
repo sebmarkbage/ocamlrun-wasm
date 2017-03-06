@@ -1,0 +1,6 @@
+.DS_Store
+/build
+emsdk
+emsdk_portable
+*.cmi
+*.cmo
